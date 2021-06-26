@@ -1,0 +1,86 @@
+[
+    {
+        "name" : "Jitender punia",
+        "lectures" : [
+            {
+                "batch" : "batch 1",
+                "timing" : "10 - 12"
+            },
+            {
+                "batch" : "batch 2",
+                "timing" : "11 - 1"
+            },
+            {
+                "batch" : "batch 3",
+                "timing" : "12 - 2"
+            },{
+                "batch" : "batch 4",
+                "timing" : "1 - 3"
+            }
+
+        ]
+    },
+    {
+        "name" : "Rajneesh",
+        "lectures" : [
+            {
+                "batch" : "batch 1",
+                "timing" : "10 - 12"
+            },
+            {
+                "batch" : "batch 2",
+                "timing" : "11 - 1"
+            },
+            {
+                "batch" : "batch 3",
+                "timing" : "12 - 2"
+            },{
+                "batch" : "batch 4",
+                "timing" : "1 - 3"
+            }
+
+        ]
+    },
+    {
+        "name" : "Sumeet malik",
+        "lectures" : [
+            {
+                "batch" : "batch 1",
+                "timing" : "10 - 12"
+            },
+            {
+                "batch" : "batch 2",
+                "timing" : "11 - 1"
+            },
+            {
+                "batch" : "batch 3",
+                "timing" : "12 - 2"
+            },{
+                "batch" : "batch 4",
+                "timing" : "1 - 3"
+            }
+
+        ]
+    },
+    {
+        "name" : "Shushant",
+        "lectures" : [
+            {
+                "batch" : "batch 1",
+                "timing" : "10 - 12"
+            },
+            {
+                "batch" : "batch 2",
+                "timing" : "11 - 1"
+            },
+            {
+                "batch" : "batch 3",
+                "timing" : "12 - 2"
+            },{
+                "batch" : "batch 4",
+                "timing" : "1 - 3"
+            }
+
+        ]
+    }
+]
